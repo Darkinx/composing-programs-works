@@ -32,6 +32,8 @@ def palindrome_chkr(word, round=1):
     # increase the grouping by one
     # Continue until it is group to the similar length of string
 
+print("Hello world")
+
 word = list(input("Enter the String: "))
 print(palindrome_chkr(word))
 # bool isPalindrome(int n){
